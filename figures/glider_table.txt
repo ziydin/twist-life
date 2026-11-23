@@ -1,0 +1,8 @@
+size   | torus                        | klein                        | projective                  
+8x8    | exact 32, mirror -           | exact 64, mirror 32 (mirror-x) | exact -, mirror -           
+12x8   | exact 96, mirror -           | exact 192, mirror 96 (mirror-x) | exact -, mirror -           
+9x9    | exact 36, mirror -           | exact 72, mirror 36 (mirror-x) | exact -, mirror -           
+16x16  | exact 64, mirror -           | exact 128, mirror 64 (mirror-x) | exact -, mirror -           
+20x12  | exact 240, mirror -          | exact 480, mirror 240 (mirror-x) | exact -, mirror -           
+7x11   | exact 308, mirror -          | exact 616, mirror 308 (mirror-x) | exact -, mirror -           
+('-' = not seen within the limit of 8*W*H generations)

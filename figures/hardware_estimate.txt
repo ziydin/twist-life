@@ -1,0 +1,6 @@
+HYPOTHESIS. Assumption: about 6 LUTs per cell, 1 flip-flop per cell. Zynq-7020: 53200 LUTs, 106400 flip-flops (check the datasheet).
+  16x16: cells 256, wires 2048, state bits 256, LUTs ~1536 (2.9% of chip), FFs 0.2%
+  32x32: cells 1024, wires 8192, state bits 1024, LUTs ~6144 (11.5% of chip), FFs 1.0%
+  64x64: cells 4096, wires 32768, state bits 4096, LUTs ~24576 (46.2% of chip), FFs 3.8%
+  100x100: cells 10000, wires 80000, state bits 10000, LUTs ~60000 (112.8% of chip), FFs 9.4%
+  Largest square grid under this assumption: 94 x 94 (HYPOTHESIS)

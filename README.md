@@ -93,7 +93,7 @@ hardware/PLAN.md        the hardware plan, stage by stage
 
 ## AI use
 
-I used an AI assistant to write most of the code. The idea, testing and decisions are mine.
+I leveraged an AI assistant for specific sections of the code; however, the overall architecture, testing, and decision-making were led by me.
 
 ## Novelty
 
